@@ -1,1 +1,0 @@
-This is react native ecommerce application
