@@ -1,4 +1,4 @@
-# This is E-commerce Application with React Native
+# EasyBuy
 
 This project is e-commerce application with full backend. I did component interaction and navigation, react native concepts by building this app.
 Backend Github: https://github.com/alijanmirzayev/Ecommerce_Express_API
